@@ -1,34 +1,34 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+author1: KYUNGHAN PARK , kyunghan1
+  name:              Park KyungHan
+  email:             han156456@naver.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    안녕하세요 반갑습니다 제 페이지에 와주셔서 감사합니다.
+    저는
+    박경한 이라고 합니다.
     
-    Open `_data/authors.yml` to edit this text.
+    `_data/authors.yml` 윗부분 수정은 여기서. 기억용
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/img/me.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x:            /assets/img/me.png
+      2x:            /assets/img/me2.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    github:          https://github.com/kyunghan1
+    email:           han156456@naver.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
