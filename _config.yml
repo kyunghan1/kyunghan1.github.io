@@ -29,7 +29,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 repository: "github.com/kyunghan1/kyunghan1.github.io" # GitHub Repo 이름
 teaser: #
 
-logo: /assets/images/logo2.png # 블로그명 앞에 로고 추가하고 싶을 경우 사용
+# logo: /assets/images/logo2.png # 블로그명 앞에 로고 추가하고 싶을 경우 사용
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
