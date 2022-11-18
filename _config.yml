@@ -19,17 +19,17 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "Blog Name Here" # 상단 헤더에 보이는 블로그 명
+title: "KyungHan DevLog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "your name here" # 블로그 닉네임 설정
+name: "KyungHan" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
-url: "https://github-account.github.io" # 블로그 URL
+url: "https://kyunghan1.github.io/" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+repository: "github.com/kyunghan1/kyunghan1.github.io" # GitHub Repo 이름
 teaser: #
 
-# logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
+logo: /assets/images/logo2.png # 블로그명 앞에 로고 추가하고 싶을 경우 사용
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -98,8 +98,8 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  name: "khdevlog" # 블로그 닉네임
+  avatar: "/assets/images/me.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"
