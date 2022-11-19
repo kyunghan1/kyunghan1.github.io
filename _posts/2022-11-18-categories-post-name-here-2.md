@@ -1,6 +1,6 @@
 ---
 title: "[Test] 포스트 출력 확인"
-excerpt: "하이"
+excerpt: "test"
 
 categories:
   - Categories2
