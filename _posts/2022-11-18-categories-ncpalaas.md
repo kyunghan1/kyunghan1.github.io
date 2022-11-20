@@ -3,11 +3,11 @@ title: "[Day10] 하이퍼바이저(hypervisor) 알아보기"
 excerpt: "하이퍼바이저 개념과 유형"
 
 categories:
-  - Categories1
+  - ncpalaas
 tags:
   - [tag1, tag2]
 
-permalink: /categories1/post-name-here/
+permalink: /categories1/ncpalaas/
 
 toc: true
 toc_sticky: true
