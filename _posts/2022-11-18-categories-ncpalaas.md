@@ -3,11 +3,11 @@ title: "[Day10] 하이퍼바이저(hypervisor) 알아보기"
 excerpt: "하이퍼바이저 개념과 유형"
 
 categories:
-  - ncpalaas
+  - Naver Cloud Camp
 tags:
   - [tag1, tag2]
 
-permalink: /categories1/ncpalaas/
+permalink: /naver-cloud-camp/ncpalaas
 
 toc: true
 toc_sticky: true

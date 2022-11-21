@@ -3,11 +3,11 @@ title: "[Set1] 블로그 설정 하기"
 excerpt: "카테고리 수정"
 
 categories:
-  - anyset
+  - Any Setting
 tags:
   - [tag1, tag2]
 
-permalink: /categories2/anyset/
+permalink: /any-setting/anyset/
 
 toc: true
 toc_sticky: true

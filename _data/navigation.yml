@@ -19,7 +19,7 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Naver Cloud Camp"
-    url: /categories1/ncpalaas/
+    url: /categories/naver-cloud-camp/
   - title: "Any Setting"
-    url: /categories2/anyset/
+    url: /categories/any-setting/
 
