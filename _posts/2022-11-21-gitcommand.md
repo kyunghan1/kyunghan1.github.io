@@ -1,5 +1,5 @@
 ---
-title: "[Git]명령어에 대해서 알아보자"
+title: "[Git]Git 명령어에 대해서 알아보자"
 excerpt: "git 명령어"
 
 categories:
@@ -365,7 +365,7 @@ Date:   Tue Aug 21 10:04:49 2018 +0900            <=== 커밋한 날짜
     ok                                            <=== 커밋할 때 입력한 내용
 
 commit d89524011f2c873fedca8643fa2cb95e02cb6656
-Author: KyungHan Park <han156456@naver.com>
+Author: kyunghan1 <han156456@naver.com>
 Date:   Tue Aug 21 09:35:48 2018 +0900
 
     Initial commit
@@ -376,7 +376,7 @@ Date:   Tue Aug 21 09:35:48 2018 +0900
     각 커밋의 변경 내용을 보여주기(-p 옵션)
 $ git log -p -2
 commit cc898de0b9ea138f554aeb59910b348cb34850f4 (HEAD -> master)
-Author: KyungHan Park <han156456@naver.com>
+Author: kyunghan1 <han156456@naver.com>
 Date:   Sun Aug 26 19:55:21 2018 +0900
 
     p 태그 추가
@@ -400,7 +400,7 @@ index 0afb588..c0e04ec 100644
 $ git log --stat
 ...
 commit c555b1b128453d18ac2a5d3493b79021dce3f470
-Author: KyungHan Park <han156456@naver.com>
+Author: kyunghan1 <han156456@naver.com>
 Date:   Sun Aug 26 19:54:50 2018 +0900
 
     HTML 내용 변경
@@ -414,7 +414,7 @@ Date:   Sun Aug 26 19:54:50 2018 +0900
 예4) 추가되거나 삭제된 내용 중에 '<p>' 문구를 포함한 정보 조회
 $ git log -p -S '<p>'
 commit cc898de0b9ea138f554aeb59910b348cb34850f4 (HEAD -> master)
-Author: KyungHan Park <han156456@naver.com>
+Author: kyunghan1 <han156456@naver.com>
 Date:   Sun Aug 26 19:55:21 2018 +0900
 
     p 태그 추가
