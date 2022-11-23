@@ -20,8 +20,8 @@ main:
 categories:
   - title: "Naver Cloud Camp"
     url: /categories/naver-cloud-camp/
-  - title: "Any Setting"
-    url: /categories/any-setting/
+  - title: "Knowledge"
+    url: /categories/knowledge/
   - title: "Git"
     url: /categories/git/
 
